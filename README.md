@@ -123,3 +123,14 @@ Before going to production, make sure you:
 ## License
 
 MIT â€” see [LICENSE](LICENSE).
+
+## License
+
+Copyright © 2026 Kammari Sai Varnik.
+
+This project is proprietary and provided for portfolio and evaluation purposes only.
+
+Viewing the source code is permitted for evaluation purposes.
+You may not copy, modify, distribute, publish, sublicense,
+or use this code or substantial portions of it in another
+project without explicit written permission from the author.
